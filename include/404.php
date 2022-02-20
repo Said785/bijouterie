@@ -1,0 +1,1 @@
+<h1 class="text-center m-3">error 404</h1>
